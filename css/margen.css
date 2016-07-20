@@ -1,0 +1,20 @@
+#margeen{
+	width: 120;
+	height: 60;
+	border: red 3px solid;
+	background-color: #447522;
+}
+
+#relleno{
+	border: blue 3px solid;
+	background-color: lime;
+	margin: 20px 10px;
+}
+
+p{
+	width: 150px;
+	height: 40px;
+	border: green 2px solid;
+	margin: 40px 20px 70px 100px;
+	background-color: white;
+}

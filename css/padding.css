@@ -1,0 +1,19 @@
+#margeen{
+	width: 500px;
+	border: red 3px dashed;
+	background-color: purple;
+	padding: 120px 60px;
+}
+
+#relleno{
+	border: blue 3px dashed;
+	background-color: lime;
+	padding: 40px 20px 70px 100px;
+}
+
+p{
+	width: 150px;
+	height: 40;
+	border: green 2px dashed;
+	background-color: white;
+}
